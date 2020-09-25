@@ -1,0 +1,17 @@
+{
+    "name": "fx/query-builder",
+    "authors": [
+        {
+            "name": "Antonio Felix",
+            "email": "antonio.felixjr@hotmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "QueryBuilder\\": "src"
+        }
+    }
+}
